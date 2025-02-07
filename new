@@ -1,5 +1,5 @@
 echo "# new-rep" >> README.md 
-git init 
+git init *stg* 
 git add README.md 
 git commit -m "first commit" 
 git branch -M main 
